@@ -1,9 +1,7 @@
 <script setup lang="ts">
+  import Home from "./Home.vue"
 </script>
 
 <template>
-  <d>
-    hello world
-  </d>
-  <img src="\public\bouncingWiener.png">
+  <Home/>
 </template>
